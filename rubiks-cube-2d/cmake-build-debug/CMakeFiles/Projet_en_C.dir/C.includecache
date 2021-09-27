@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Erwan/CLionProjects/Projet en C/main.c
+stdlib.h
+-
+stdio.h
+-
+conio.h
+-
+rubiks.h
+C:/Users/Erwan/CLionProjects/Projet en C/rubiks.h
+
+C:/Users/Erwan/CLionProjects/Projet en C/rubiks.h
+stdio.h
+-
+conio.h
+-
+Windows.h
+-
+
